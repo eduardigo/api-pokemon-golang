@@ -1,2 +1,2 @@
 # api-pokemon-golang
-Api para estudos da linguagem Go
+Developing an api to learn Golang
